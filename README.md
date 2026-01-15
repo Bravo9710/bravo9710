@@ -37,7 +37,6 @@ Git, GitHub, GitLab, Docker, Vercel, Webpack, Vite, NPM, PNPM
 ## 🎓 Background
 - MSc in **Mobile and Web Technologies**
 - BSc in **Computer Systems and Technologies**
-- Strong foundations in **OOP, MVC, and system architecture**
 
 ## 🌍 About Me
 - Proactive learner who stays up to date with modern front-end best practices
@@ -45,7 +44,7 @@ Git, GitHub, GitLab, Docker, Vercel, Webpack, Vite, NPM, PNPM
 - Fluent in English (strengthened during a 5-month professional stay in the USA)
 
 📫 **Let’s connect:**  
-- GitHub: https://github.com/Bravo9710
+- GitHub: https://www.linkedin.com/in/vencislav-venkov-0865071a7/
 
 
 <!--

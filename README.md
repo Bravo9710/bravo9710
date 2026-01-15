@@ -1,31 +1,6 @@
-## Hi there 👋
-
 # Hi, I’m Vencislav 👋
 
 Front-end Developer with 4+ years of experience building scalable, high-performance web applications. I specialize in **React**, **Next.js**, and modern JavaScript ecosystems, with a strong focus on clean UI architecture, performance optimization, and maintainable code.
-
-## 🚀 What I do
-- Build **production-ready web applications** using React, Next.js, and TypeScript
-- Develop **CMS-driven platforms** (Sanity, Drupal, WordPress) for scalable content management
-- Create **reusable UI components** and design systems with Tailwind CSS and Storybook
-- Optimize performance, images, and data fetching (SSR, GraphQL)
-- Collaborate closely with backend engineers, designers, and product teams in Agile environments
-
-## 🧠 Tech Stack
-**Frontend:**  
-React, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Storybook, HTML5, CSS/SCSS  
-
-**Backend & APIs:**  
-Node.js, Express.js, GraphQL, PHP, Laravel  
-
-**CMS & Platforms:**  
-Sanity, Drupal, WordPress  
-
-**Databases:**  
-MySQL, MongoDB  
-
-**Tooling & DevOps:**  
-Git, GitHub, GitLab, Docker, Vercel, Webpack, Vite, NPM, PNPM  
 
 ## 📌 Experience Highlights
 - Worked on **large-scale, data-driven platforms** used in production
@@ -33,10 +8,6 @@ Git, GitHub, GitLab, Docker, Vercel, Webpack, Vite, NPM, PNPM
 - Migrated projects to improve **performance and load times**
 - Experience across **DEV, DEMO, and LIVE** environments
 - Strong ownership mindset and attention to detail
-
-## 🎓 Background
-- MSc in **Mobile and Web Technologies**
-- BSc in **Computer Systems and Technologies**
 
 ## 🌍 About Me
 - Proactive learner who stays up to date with modern front-end best practices

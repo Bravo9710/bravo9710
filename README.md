@@ -15,6 +15,7 @@ Front-end Developer with 4+ years of experience building scalable, high-performa
 - Fluent in English (strengthened during a 5-month professional stay in the USA)
 
 📫 **Let’s connect:**  
+- Portfolio: https://vencislavvenkov.vercel.app
 - GitHub: https://www.linkedin.com/in/vencislav-venkov-0865071a7/
 
 
